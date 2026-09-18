@@ -1,7 +1,7 @@
 # Oii! Eu sou Ana Moraes
 
 Graduanda em Engenharia de Software<br>
-Explorando o universo de Dados
+Construindo minha trajetória na área de Dados
 
 <p align="center">
 
